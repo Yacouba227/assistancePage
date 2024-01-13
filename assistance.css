@@ -81,7 +81,7 @@ textarea:focus {
   color: white;
 }
 .lacation {
-  width: 50%;
+  width: 60%;
 }
 iframe {
   width: 100%;
@@ -89,6 +89,9 @@ iframe {
 }
 .newsletter h1{
   color: #fff;
+}
+#subscrib{
+  background: white;
 }
 /* Mise en form de palrtie footer */
 
@@ -526,8 +529,8 @@ nav {
   font-weight: bold;
   border-radius: 12px;
   border: none;
-  background: #999;
-  color: black;
+  background: #021845;
+  color: white;
   letter-spacing: 1px;
   margin-top: 3%;
 }
